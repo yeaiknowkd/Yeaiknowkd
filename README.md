@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 >
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Hello World!](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/yeaiknowkd/ActiveDirectoryLab)
+  - [Hello World!](https://github.com/yeaiknowkd/ActiveDirectoryLab)
 
 <h2>📄 Certfications</h2>
 
