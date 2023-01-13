@@ -8,8 +8,8 @@
 
 <h2>📄 Certfications</h2>
 
-- [CompTIA Security+](https://www.certmetrics.com/comptia/electronic_certificate.aspx?cert=F0CC95E40CEFDC484D0673B9190B3DF0O4A51321D4DD46ACE57FE48B7FF02BF93)
-- [CompTIA A+](https://www.certmetrics.com/comptia/electronic_certificate.aspx?cert=C6FC39246CE7BAF796643376378EE90AO601CEDBEAF797DD48F73084A72765841))
+- [CompTIA Security+](https://i.imgur.com/iU6hfHV.png)
+- [CompTIA A+](https://i.imgur.com/xjdfJn1.jpg)
 
 <h2>📺 Popular YouTube Videos</h2>
 
