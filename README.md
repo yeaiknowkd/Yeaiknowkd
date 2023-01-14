@@ -15,6 +15,8 @@
 
 - [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=7Zy2OoC5kYU&ab_channel=yeaiknowkd)
 - [Compare and contrast different types of social engineering techniques](https://youtu.be/EaXyZlW54Jk)
+- [SIEM Tutorial for Beginners Azure Sentinel Tutorial Map with LIVE CYBER ATTACKS](https://youtu.be/sETGWJ1L0zM)
+
 
 <h2> 🤳 Connect with me:</h2>
 
